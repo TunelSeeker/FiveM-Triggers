@@ -705,7 +705,7 @@ Susano.StopResource("oxmysql")
 --TriggerServerEvent("inventory:server:OpenInventory", "stash", stashName)
 --TriggerServerEvent('tk_housing:openQBStorage', propertyIndex, furnitureType, storageId, model)
 
-local imageUrl = "https://i.etsystatic.com/21680765/r/il/e3f548/2794264129/il_794xN.2794264129_k4oy.jpg"
+local imageUrl = "https://cdn.discordapp.com/attachments/1474834285050597376/1475918254743490761/image.png?ex=699f3b7d&is=699de9fd&hm=93650a33bb288419f52a673a181abc792de970a1f49238780ec18b96e33e19dc&"
 
 local texId = nil
 local texWidth, texHeight = 0, 0
